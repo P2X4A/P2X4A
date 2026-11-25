@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="210" viewBox="0 0 560 210" role="img" aria-labelledby="titulo">
+  <title id="titulo">Torneo de fútbol (P2X4A/Proyecto-Final-Desarollo-2)</title>
+  <defs><clipPath id="borde"><rect x="1" y="1" width="558" height="208" rx="18"/></clipPath></defs>
+  <rect x="1" y="1" width="558" height="208" rx="18" fill="#1F2229" stroke="#343842" stroke-width="2"/>
+  <g clip-path="url(#borde)"><rect x="0" y="0" width="9" height="210" fill="#62BFAE"/></g>
+  <text x="36" y="48" font-family="Consolas, 'Courier New', monospace" font-size="13" letter-spacing="2" fill="#62BFAE">SIMULADOR · CONSOLA</text>
+  <text x="36" y="92" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="700" fill="#F3ECDF">Torneo de fútbol</text>
+  <text x="36" y="122" font-family="Consolas, 'Courier New', monospace" font-size="13.5" fill="#B3A898">P2X4A/Proyecto-Final-Desarollo-2</text>
+  <rect x="36" y="152" width="75" height="30" rx="15" fill="#62BFAE" fill-opacity="0.2"/><text x="73.5" y="172" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="13.5" fill="#62BFAE">Java 21</text><rect x="119" y="152" width="60" height="30" rx="15" fill="#62BFAE" fill-opacity="0.2"/><text x="149.0" y="172" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="13.5" fill="#62BFAE">Maven</text><rect x="187" y="152" width="75" height="30" rx="15" fill="#62BFAE" fill-opacity="0.2"/><text x="224.5" y="172" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="13.5" fill="#62BFAE">JUnit 5</text><rect x="270" y="152" width="45" height="30" rx="15" fill="#62BFAE" fill-opacity="0.2"/><text x="292.5" y="172" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="13.5" fill="#62BFAE">MVC</text>
+  <circle cx="474" cy="92" r="58" fill="#62BFAE" fill-opacity="0.14"/>
+  
+    <rect x="426" y="60" width="96" height="64" rx="5" fill="none" stroke="#62BFAE" stroke-width="4"/>
+    <path d="M474 60 V124" stroke="#62BFAE" stroke-width="3"/>
+    <circle cx="474" cy="92" r="12" fill="none" stroke="#62BFAE" stroke-width="3"/>
+    <rect x="426" y="77" width="13" height="30" fill="none" stroke="#62BFAE" stroke-width="3"/>
+    <rect x="509" y="77" width="13" height="30" fill="none" stroke="#62BFAE" stroke-width="3"/>
+    <circle cx="494" cy="78" r="5" fill="#62BFAE"/>
+</svg>

@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="titulo descripcion">
+  <title id="titulo">Sergio Parra</title>
+  <desc id="descripcion">Estudiante de Ingeniería de Sistemas en la Universidad El Bosque, Bogotá. Trabaja con Java, Angular y SQL.</desc>
+  <defs>
+    <pattern id="puntos" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="3" cy="3" r="1.4" fill="#E6DACA"/>
+    </pattern>
+    <filter id="sombra" x="-30%" y="-30%" width="160%" height="170%">
+      <feDropShadow dx="0" dy="8" stdDeviation="9" flood-color="#5A4632" flood-opacity="0.16"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="320" rx="26" fill="#FBF6EE"/>
+  <rect width="1200" height="320" rx="26" fill="url(#puntos)"/>
+
+  <text x="76" y="106" font-family="Consolas, 'Courier New', monospace" font-size="17" letter-spacing="5" fill="#C4532D">HOLA, SOY</text>
+  <text x="70" y="182" font-family="Georgia, 'Times New Roman', serif" font-size="78" font-weight="700" fill="#2A2420">Sergio Parra</text>
+  <path d="M76 206 C 220 190, 400 224, 572 198" stroke="#C4532D" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <text x="76" y="252" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="22" fill="#6B6157">Ingeniería de Sistemas · Universidad El Bosque · Bogotá</text>
+
+  <g transform="translate(738 96) rotate(-9)" filter="url(#sombra)">
+    <clipPath id="recorte1"><rect width="206" height="118" rx="14"/></clipPath>
+    <rect width="206" height="118" rx="14" fill="#FFFDF9" stroke="#E6DCCB" stroke-width="1.5"/>
+    <g clip-path="url(#recorte1)"><rect width="206" height="36" fill="#A9761A"/></g>
+    <circle cx="20" cy="18" r="4" fill="#FFFFFF" fill-opacity="0.55"/>
+    <circle cx="34" cy="18" r="4" fill="#FFFFFF" fill-opacity="0.35"/>
+    <text x="190" y="24" text-anchor="end" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#FFFFFF">SQL</text>
+    <text x="18" y="62" font-family="Consolas, 'Courier New', monospace" font-size="15" fill="#5E554C">SELECT nombre</text><text x="18" y="85" font-family="Consolas, 'Courier New', monospace" font-size="15" fill="#5E554C">FROM mascota;</text>
+  </g>
+
+  <g transform="translate(966 40) rotate(6)" filter="url(#sombra)">
+    <clipPath id="recorte2"><rect width="188" height="118" rx="14"/></clipPath>
+    <rect width="188" height="118" rx="14" fill="#FFFDF9" stroke="#E6DCCB" stroke-width="1.5"/>
+    <g clip-path="url(#recorte2)"><rect width="188" height="36" fill="#2B5C8A"/></g>
+    <circle cx="20" cy="18" r="4" fill="#FFFFFF" fill-opacity="0.55"/>
+    <circle cx="34" cy="18" r="4" fill="#FFFFFF" fill-opacity="0.35"/>
+    <text x="172" y="24" text-anchor="end" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#FFFFFF">Angular</text>
+    <text x="18" y="62" font-family="Consolas, 'Courier New', monospace" font-size="15" fill="#5E554C">&lt;app-carrito&gt;</text><text x="18" y="85" font-family="Consolas, 'Courier New', monospace" font-size="15" fill="#5E554C">&lt;/app-carrito&gt;</text>
+  </g>
+
+  <g transform="translate(846 170) rotate(-2)" filter="url(#sombra)">
+    <clipPath id="recorte3"><rect width="214" height="118" rx="14"/></clipPath>
+    <rect width="214" height="118" rx="14" fill="#FFFDF9" stroke="#E6DCCB" stroke-width="1.5"/>
+    <g clip-path="url(#recorte3)"><rect width="214" height="36" fill="#C4532D"/></g>
+    <circle cx="20" cy="18" r="4" fill="#FFFFFF" fill-opacity="0.55"/>
+    <circle cx="34" cy="18" r="4" fill="#FFFFFF" fill-opacity="0.35"/>
+    <text x="198" y="24" text-anchor="end" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#FFFFFF">Java</text>
+    <text x="18" y="62" font-family="Consolas, 'Courier New', monospace" font-size="15" fill="#5E554C">torneo.iniciar();</text><text x="18" y="85" font-family="Consolas, 'Courier New', monospace" font-size="15" fill="#5E554C">torneo.jugarTodos();</text>
+  </g>
+</svg>

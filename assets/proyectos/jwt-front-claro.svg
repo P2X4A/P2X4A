@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="210" viewBox="0 0 560 210" role="img" aria-labelledby="titulo">
+  <title id="titulo">Front del JWT (P2X4A/springfirstapp-jwt-front)</title>
+  <defs><clipPath id="borde"><rect x="1" y="1" width="558" height="208" rx="18"/></clipPath></defs>
+  <rect x="1" y="1" width="558" height="208" rx="18" fill="#FFFDF9" stroke="#E6DCCB" stroke-width="2"/>
+  <g clip-path="url(#borde)"><rect x="0" y="0" width="9" height="210" fill="#2B5C8A"/></g>
+  <text x="36" y="48" font-family="Consolas, 'Courier New', monospace" font-size="13" letter-spacing="2" fill="#2B5C8A">FRONTEND</text>
+  <text x="36" y="92" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="700" fill="#2A2420">Front del JWT</text>
+  <text x="36" y="122" font-family="Consolas, 'Courier New', monospace" font-size="13.5" fill="#6B6157">P2X4A/springfirstapp-jwt-front</text>
+  <rect x="36" y="152" width="98" height="30" rx="15" fill="#2B5C8A" fill-opacity="0.12"/><text x="85.0" y="172" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="13.5" fill="#2B5C8A">Angular 22</text><rect x="142" y="152" width="98" height="30" rx="15" fill="#2B5C8A" fill-opacity="0.12"/><text x="191.0" y="172" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="13.5" fill="#2B5C8A">TypeScript</text><rect x="248" y="152" width="90" height="30" rx="15" fill="#2B5C8A" fill-opacity="0.12"/><text x="293.0" y="172" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="13.5" fill="#2B5C8A">Bootstrap</text>
+  <circle cx="474" cy="92" r="58" fill="#2B5C8A" fill-opacity="0.08"/>
+  
+    <rect x="428" y="54" width="92" height="76" rx="9" fill="none" stroke="#2B5C8A" stroke-width="4"/>
+    <path d="M428 70 H520" stroke="#2B5C8A" stroke-width="4"/>
+    <circle cx="439" cy="62" r="3" fill="#2B5C8A"/><circle cx="449" cy="62" r="3" fill="#2B5C8A"/>
+    <rect x="446" y="82" width="56" height="9" rx="4.5" fill="none" stroke="#2B5C8A" stroke-width="3"/>
+    <rect x="446" y="97" width="56" height="9" rx="4.5" fill="none" stroke="#2B5C8A" stroke-width="3"/>
+    <rect x="459" y="113" width="30" height="9" rx="4.5" fill="#2B5C8A"/>
+</svg>

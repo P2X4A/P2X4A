@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="210" viewBox="0 0 560 210" role="img" aria-labelledby="titulo">
+  <title id="titulo">SpringFirstApp JWT (P2X4A/SpringFirstAppJWT)</title>
+  <defs><clipPath id="borde"><rect x="1" y="1" width="558" height="208" rx="18"/></clipPath></defs>
+  <rect x="1" y="1" width="558" height="208" rx="18" fill="#FFFDF9" stroke="#E6DCCB" stroke-width="2"/>
+  <g clip-path="url(#borde)"><rect x="0" y="0" width="9" height="210" fill="#C4532D"/></g>
+  <text x="36" y="48" font-family="Consolas, 'Courier New', monospace" font-size="13" letter-spacing="2" fill="#C4532D">API REST · SEGURIDAD</text>
+  <text x="36" y="92" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="700" fill="#2A2420">SpringFirstApp JWT</text>
+  <text x="36" y="122" font-family="Consolas, 'Courier New', monospace" font-size="13.5" fill="#6B6157">P2X4A/SpringFirstAppJWT</text>
+  <rect x="36" y="152" width="75" height="30" rx="15" fill="#C4532D" fill-opacity="0.12"/><text x="73.5" y="172" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="13.5" fill="#C4532D">Java 21</text><rect x="119" y="152" width="121" height="30" rx="15" fill="#C4532D" fill-opacity="0.12"/><text x="179.5" y="172" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="13.5" fill="#C4532D">Spring Boot 3</text><rect x="248" y="152" width="45" height="30" rx="15" fill="#C4532D" fill-opacity="0.12"/><text x="270.5" y="172" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="13.5" fill="#C4532D">JWT</text><rect x="301" y="152" width="60" height="30" rx="15" fill="#C4532D" fill-opacity="0.12"/><text x="331.0" y="172" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="13.5" fill="#C4532D">MySQL</text>
+  <circle cx="474" cy="92" r="58" fill="#C4532D" fill-opacity="0.08"/>
+  
+    <path d="M474 48 L510 64 V94 C510 118 492 132 474 140 C456 132 438 118 438 94 V64 Z" fill="none" stroke="#C4532D" stroke-width="4" stroke-linejoin="round"/>
+    <circle cx="474" cy="92" r="8" fill="#C4532D"/>
+    <path d="M474 96 V112" stroke="#C4532D" stroke-width="6" stroke-linecap="round"/>
+</svg>

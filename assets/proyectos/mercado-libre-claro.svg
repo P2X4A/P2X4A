@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="210" viewBox="0 0 560 210" role="img" aria-labelledby="titulo">
+  <title id="titulo">Clon de Mercado Libre (P2X4A/proyecto1-desarollo3)</title>
+  <defs><clipPath id="borde"><rect x="1" y="1" width="558" height="208" rx="18"/></clipPath></defs>
+  <rect x="1" y="1" width="558" height="208" rx="18" fill="#FFFDF9" stroke="#E6DCCB" stroke-width="2"/>
+  <g clip-path="url(#borde)"><rect x="0" y="0" width="9" height="210" fill="#A9761A"/></g>
+  <text x="36" y="48" font-family="Consolas, 'Courier New', monospace" font-size="13" letter-spacing="2" fill="#A9761A">FRONTEND · EN EQUIPO</text>
+  <text x="36" y="92" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="700" fill="#2A2420">Clon de Mercado Libre</text>
+  <text x="36" y="122" font-family="Consolas, 'Courier New', monospace" font-size="13.5" fill="#6B6157">P2X4A/proyecto1-desarollo3</text>
+  <rect x="36" y="152" width="98" height="30" rx="15" fill="#A9761A" fill-opacity="0.12"/><text x="85.0" y="172" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="13.5" fill="#A9761A">Angular 22</text><rect x="142" y="152" width="52" height="30" rx="15" fill="#A9761A" fill-opacity="0.12"/><text x="168.0" y="172" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="13.5" fill="#A9761A">RxJS</text><rect x="202" y="152" width="128" height="30" rx="15" fill="#A9761A" fill-opacity="0.12"/><text x="266.0" y="172" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="13.5" fill="#A9761A">Fake Store API</text><rect x="338" y="152" width="52" height="30" rx="15" fill="#A9761A" fill-opacity="0.12"/><text x="364.0" y="172" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="13.5" fill="#A9761A">OMDb</text>
+  <circle cx="474" cy="92" r="58" fill="#A9761A" fill-opacity="0.08"/>
+  
+    <path d="M440 76 H508 L503 134 H445 Z" fill="none" stroke="#A9761A" stroke-width="4" stroke-linejoin="round"/>
+    <path d="M459 76 V66 A15 15 0 0 1 489 66 V76" fill="none" stroke="#A9761A" stroke-width="4" stroke-linecap="round"/>
+    <path d="M460 104 Q474 116 488 104" fill="none" stroke="#A9761A" stroke-width="4" stroke-linecap="round"/>
+</svg>
