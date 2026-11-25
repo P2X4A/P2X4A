@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="210" viewBox="0 0 560 210" role="img" aria-labelledby="titulo">
+  <title id="titulo">Alojamientos LR (P2X4A/ProyectoMarketplaceAlojamientos)</title>
+  <defs><clipPath id="borde"><rect x="1" y="1" width="558" height="208" rx="18"/></clipPath></defs>
+  <rect x="1" y="1" width="558" height="208" rx="18" fill="#1F2229" stroke="#343842" stroke-width="2"/>
+  <g clip-path="url(#borde)"><rect x="0" y="0" width="9" height="210" fill="#8DBF7A"/></g>
+  <text x="36" y="48" font-family="Consolas, 'Courier New', monospace" font-size="13" letter-spacing="2" fill="#8DBF7A">MARKETPLACE · EN EQUIPO</text>
+  <text x="36" y="92" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="700" fill="#F3ECDF">Alojamientos LR</text>
+  <text x="36" y="122" font-family="Consolas, 'Courier New', monospace" font-size="13.5" fill="#B3A898">P2X4A/ProyectoMarketplaceAlojamientos</text>
+  <rect x="36" y="152" width="98" height="30" rx="15" fill="#8DBF7A" fill-opacity="0.2"/><text x="85.0" y="172" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="13.5" fill="#8DBF7A">Angular 22</text><rect x="142" y="152" width="98" height="30" rx="15" fill="#8DBF7A" fill-opacity="0.2"/><text x="191.0" y="172" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="13.5" fill="#8DBF7A">TypeScript</text><rect x="248" y="152" width="90" height="30" rx="15" fill="#8DBF7A" fill-opacity="0.2"/><text x="293.0" y="172" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="13.5" fill="#8DBF7A">Bootstrap</text>
+  <circle cx="474" cy="92" r="58" fill="#8DBF7A" fill-opacity="0.14"/>
+  
+    <path d="M432 90 L474 52 L516 90" fill="none" stroke="#8DBF7A" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M442 82 V132 H506 V82" fill="none" stroke="#8DBF7A" stroke-width="4" stroke-linejoin="round"/>
+    <rect x="465" y="106" width="18" height="26" rx="3" fill="#8DBF7A"/>
+    <rect x="486" y="90" width="12" height="11" rx="2" fill="none" stroke="#8DBF7A" stroke-width="3"/>
+</svg>
