@@ -1,0 +1,4 @@
+# Archivos locales y de editor
+.idea/
+.vscode/
+*.log
