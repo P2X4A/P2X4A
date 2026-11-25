@@ -1,65 +1,134 @@
-# Sergio Parra
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-oscuro.svg">
+  <img src="assets/banner-claro.svg" alt="Sergio Parra, estudiante de Ingeniería de Sistemas en la Universidad El Bosque, Bogotá" width="100%">
+</picture>
 
-Estudiante de 4.º semestre de Ingeniería de Sistemas en la Universidad El Bosque (Bogotá, Colombia). Me interesan el desarrollo de software, las bases de datos, las estructuras de datos y la infraestructura TI. Aquí dejo lo que he construido durante la carrera.
+<br>
 
-[English version below](#english)
+Estudio cuarto semestre de Ingeniería de Sistemas en la Universidad El Bosque, en Bogotá. Aprendo construyendo: casi todo lo que veo en clase termina convertido en un proyecto. Empecé con aplicaciones de consola y de escritorio en Java; hoy hago APIs con Spring Boot y frontends en Angular que las consumen.
 
-## Stack y dónde se ve
+Aquí reuní los proyectos a los que más cariño les tengo.
 
-| Área | Tecnologías | Evidencia |
+## Proyectos
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/P2X4A/SpringFirstAppJWT">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="assets/proyectos/springfirstappjwt-oscuro.svg">
+          <img src="assets/proyectos/springfirstappjwt-claro.svg" alt="SpringFirstApp JWT: API REST con Java 21, Spring Boot 3, JWT y MySQL" width="100%">
+        </picture>
+      </a>
+      <p>API de usuarios con inicio de sesión por JWT, roles USER y ADMIN, contraseñas cifradas con BCrypt y documentación en Swagger.</p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/P2X4A/springfirstapp-jwt-front">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="assets/proyectos/jwt-front-oscuro.svg">
+          <img src="assets/proyectos/jwt-front-claro.svg" alt="Front del JWT: Angular 22, TypeScript y Bootstrap" width="100%">
+        </picture>
+      </a>
+      <p>El front de esa API. Tiene inicio de sesión, registro y gestión de usuarios; un guard protege las rutas y un interceptor agrega el token a cada petición.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/P2X4A/proyecto1-desarollo3">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="assets/proyectos/mercado-libre-oscuro.svg">
+          <img src="assets/proyectos/mercado-libre-claro.svg" alt="Clon de Mercado Libre: Angular 22, RxJS, Fake Store API y OMDb" width="100%">
+        </picture>
+      </a>
+      <p>Réplica educativa de la tienda de Mercado Libre Colombia, con catálogo traído de Fake Store API, buscador, carrito con checkout, CRUD de publicaciones y películas de OMDb. La hicimos entre tres; yo armé la estructura, las rutas, la maquetación, el consumo de las APIs, el CRUD y la integración del carrito.</p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/P2X4A/ProyectoMarketplaceAlojamientos">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="assets/proyectos/alojamientos-oscuro.svg">
+          <img src="assets/proyectos/alojamientos-claro.svg" alt="Alojamientos LR: marketplace en Angular 22, TypeScript y Bootstrap" width="100%">
+        </picture>
+      </a>
+      <p>Marketplace de alojamientos para estadías cortas: filtros, detalle, cotización por noches y reservas simuladas. Fuimos cuatro en el equipo; yo hice el modelo de datos, el servicio de cotización y los componentes de reservas.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/P2X4A/Proyecto-Final-Desarollo-2">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="assets/proyectos/torneo-oscuro.svg">
+          <img src="assets/proyectos/torneo-claro.svg" alt="Torneo de fútbol: simulador en Java 21 con Maven, JUnit 5 y MVC" width="100%">
+        </picture>
+      </a>
+      <p>Torneo todos contra todos que se simula minuto a minuto: la posesión decide quién ataca y el poder ofensivo, si hay ocasión de gol. Lleva tabla, goleadores y campeón, guarda el torneo en archivos y tiene 31 pruebas con JUnit 5.</p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/P2X4A/sigevet-app-mvc">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="assets/proyectos/sigevet-oscuro.svg">
+          <img src="assets/proyectos/sigevet-claro.svg" alt="SIGEVET: Spring Boot, Thymeleaf, JDBC y MySQL" width="100%">
+        </picture>
+      </a>
+      <p>Proyecto final de Bases de Datos 1: la base de una red de clínicas veterinarias, montada en MySQL sobre una máquina virtual con Oracle Linux. En el equipo me tocó verificar la base e integrar las partes. Este repositorio guarda una versión de la app con Thymeleaf y SQL escrito a mano.</p>
+    </td>
+  </tr>
+</table>
+
+También están la [calculadora estilo Windows 11](https://github.com/P2X4A/calculadoraFinalWindows), hecha en Angular con memoria, uso con teclado y 16 pruebas, y mis primeros proyectos de Java, como [localDeMotos](https://github.com/P2X4A/localDeMotos) y [paginasYCafe](https://github.com/P2X4A/paginasYCafe).
+
+## Con qué trabajo
+
+| Área | Tecnologías | Dónde verlo |
 | --- | --- | --- |
-| Backend | Java 21, Spring Boot 3, Spring Security con JWT, JPA/Hibernate, JDBC, MySQL, OpenAPI/Swagger | [SpringFirstAppJWT](https://github.com/P2X4A/SpringFirstAppJWT), [sigevet-app-mvc](https://github.com/P2X4A/sigevet-app-mvc) |
-| Frontend | Angular 21 y 22, TypeScript, RxJS, Bootstrap, HTML y CSS, consumo de APIs REST | [proyecto1-desarollo3](https://github.com/P2X4A/proyecto1-desarollo3), [springfirstapp-jwt-front](https://github.com/P2X4A/springfirstapp-jwt-front), [ProyectoMarketplaceAlojamientos](https://github.com/P2X4A/ProyectoMarketplaceAlojamientos) |
-| Java y POO | MVC, DAO/DTO, herencia y polimorfismo, interfaces, excepciones propias, Swing, persistencia en archivos y serialización | [Proyecto-Final-Desarollo-2](https://github.com/P2X4A/Proyecto-Final-Desarollo-2), [localDeMotos](https://github.com/P2X4A/localDeMotos), [paginasYCafe](https://github.com/P2X4A/paginasYCafe) |
-| Bases de datos | SQL, MySQL, modelado entidad-relación, normalización, álgebra relacional | [Evidencias en mi portafolio](https://p2x4a.github.io/projects/), [repositorio de SIGEVET](https://github.com/Estarlan/proyecto-bd1-sigevet) |
-| Pruebas | JUnit 5 y Vitest | [Proyecto-Final-Desarollo-2](https://github.com/P2X4A/Proyecto-Final-Desarollo-2) (31 pruebas), [calculadoraFinalWindows](https://github.com/P2X4A/calculadoraFinalWindows) (16 pruebas) |
-| Herramientas | Git y GitHub (ramas y merges), Maven, npm | Todos los repositorios |
+| Backend | Java 21, Spring Boot 3, Spring Security con JWT, JPA/Hibernate, JDBC, OpenAPI | [SpringFirstAppJWT](https://github.com/P2X4A/SpringFirstAppJWT), [sigevet-app-mvc](https://github.com/P2X4A/sigevet-app-mvc) |
+| Frontend | Angular 21 y 22, TypeScript, RxJS, Bootstrap, HTML y CSS | [proyecto1-desarollo3](https://github.com/P2X4A/proyecto1-desarollo3), [springfirstapp-jwt-front](https://github.com/P2X4A/springfirstapp-jwt-front) |
+| Java y POO | MVC, DAO/DTO, herencia, interfaces, Swing, archivos y serialización | [Proyecto-Final-Desarollo-2](https://github.com/P2X4A/Proyecto-Final-Desarollo-2), [localDeMotos](https://github.com/P2X4A/localDeMotos) |
+| Bases de datos | SQL y MySQL, modelo entidad-relación, normalización, álgebra relacional | [Evidencias en mi portafolio](https://p2x4a.github.io/projects/), [SIGEVET](https://github.com/Estarlan/proyecto-bd1-sigevet) |
+| Pruebas | JUnit 5 y Vitest | [Proyecto-Final-Desarollo-2](https://github.com/P2X4A/Proyecto-Final-Desarollo-2), [calculadoraFinalWindows](https://github.com/P2X4A/calculadoraFinalWindows) |
+| Herramientas | Git y GitHub, Maven, npm | Todos los repositorios |
 
-## Proyectos destacados
+## Ahora mismo
 
-- **[SpringFirstAppJWT](https://github.com/P2X4A/SpringFirstAppJWT)**: API REST de usuarios con autenticación JWT (HS256, 24 h), permisos por rol (USER y ADMIN), contraseñas con BCrypt y documentación en Swagger UI. Spring Boot 3, Java 21 y MySQL.
-- **[springfirstapp-jwt-front](https://github.com/P2X4A/springfirstapp-jwt-front)**: front en Angular 22 que consume esa API: inicio de sesión, registro y gestión de usuarios con guard e interceptor JWT.
-- **[proyecto1-desarollo3](https://github.com/P2X4A/proyecto1-desarollo3)**: clon educativo de Mercado Libre Colombia en Angular 22, con catálogo de Fake Store API, búsqueda, carrito con checkout, CRUD de publicaciones y películas con OMDb. Proyecto en equipo de tres personas: hice la estructura, las rutas, la maquetación, el consumo de las APIs, el CRUD, el buscador y la integración del carrito.
-- **[ProyectoMarketplaceAlojamientos](https://github.com/P2X4A/ProyectoMarketplaceAlojamientos)**: marketplace de alojamientos con listado, filtros, detalle, cotización y reservas simuladas (Angular 22, TypeScript, Bootstrap). Proyecto en equipo de cuatro personas: creé el repositorio, documenté la instalación y desarrollé el modelo de datos, el servicio de cotización y los componentes de reservas.
-- **[Proyecto-Final-Desarollo-2](https://github.com/P2X4A/Proyecto-Final-Desarollo-2)**: simulador de torneo de fútbol en Java 21 (consola, MVC): calendario todos contra todos, partidos simulados minuto a minuto, tabla de posiciones, goleadores, persistencia en archivos y 31 pruebas con JUnit 5.
-- **[sigevet-app-mvc](https://github.com/P2X4A/sigevet-app-mvc)**: SIGEVET, proyecto final de Bases de Datos 1 hecho en equipo. Aplicación con Spring Boot y Thymeleaf, con SQL escrito a mano (JDBC, sin ORM) sobre MySQL. Es una versión previa; el repositorio completo del equipo está [aquí](https://github.com/Estarlan/proyecto-bd1-sigevet).
+Este semestre ando entre Spring Boot, con seguridad por JWT y APIs REST, y el análisis de algoritmos de Modelización Informacional (recurrencias, árboles binarios y complejidad).
 
-Otros proyectos: [calculadoraFinalWindows](https://github.com/P2X4A/calculadoraFinalWindows) (calculadora estilo Windows 11 en Angular, con memoria, teclado y pruebas), [localDeMotos](https://github.com/P2X4A/localDeMotos) (inventario y ventas con Swing y DAO) y [paginasYCafe](https://github.com/P2X4A/paginasYCafe) (librería con cafetería en consola).
+## Fuera del código
 
-## Contacto
+Cuando no estoy programando, leo sobre fisiología humana y nutrición deportiva, y entreno fuerza. Armé mi primer PC y me gusta flashear custom ROMs.
 
-- Portafolio: [p2x4a.github.io](https://p2x4a.github.io)
-- Formulario de contacto: [p2x4a.github.io/contact](https://p2x4a.github.io/contact/)
+## Dónde encontrarme
 
----
+Mi [portafolio](https://p2x4a.github.io) reúne los trabajos de Bases de Datos. Si quieres escribirme, el [formulario de contacto](https://p2x4a.github.io/contact/) me llega directo.
 
-## English
+<details>
+<summary><b>English</b></summary>
 
-Fourth-semester Systems Engineering student at Universidad El Bosque (Bogotá, Colombia). I am interested in software development, databases, data structures and IT infrastructure. This profile collects what I have built during my degree.
+<br>
 
-### Stack and where to see it
+I'm a fourth-semester Systems Engineering student at Universidad El Bosque in Bogotá. I learn by building, so most of what I study ends up as a project. I started with console and desktop apps in Java; now I build APIs with Spring Boot and Angular front ends that use them.
 
-| Area | Technologies | Evidence |
-| --- | --- | --- |
-| Backend | Java 21, Spring Boot 3, Spring Security with JWT, JPA/Hibernate, JDBC, MySQL, OpenAPI/Swagger | [SpringFirstAppJWT](https://github.com/P2X4A/SpringFirstAppJWT), [sigevet-app-mvc](https://github.com/P2X4A/sigevet-app-mvc) |
-| Frontend | Angular 21 and 22, TypeScript, RxJS, Bootstrap, HTML and CSS, REST API consumption | [proyecto1-desarollo3](https://github.com/P2X4A/proyecto1-desarollo3), [springfirstapp-jwt-front](https://github.com/P2X4A/springfirstapp-jwt-front), [ProyectoMarketplaceAlojamientos](https://github.com/P2X4A/ProyectoMarketplaceAlojamientos) |
-| Java and OOP | MVC, DAO/DTO, inheritance and polymorphism, interfaces, custom exceptions, Swing, file persistence and serialization | [Proyecto-Final-Desarollo-2](https://github.com/P2X4A/Proyecto-Final-Desarollo-2), [localDeMotos](https://github.com/P2X4A/localDeMotos), [paginasYCafe](https://github.com/P2X4A/paginasYCafe) |
-| Databases | SQL, MySQL, entity-relationship modeling, normalization, relational algebra | [Coursework on my portfolio](https://p2x4a.github.io/projects/), [SIGEVET repository](https://github.com/Estarlan/proyecto-bd1-sigevet) |
-| Testing | JUnit 5 and Vitest | [Proyecto-Final-Desarollo-2](https://github.com/P2X4A/Proyecto-Final-Desarollo-2) (31 tests), [calculadoraFinalWindows](https://github.com/P2X4A/calculadoraFinalWindows) (16 tests) |
-| Tools | Git and GitHub (branches and merges), Maven, npm | All repositories |
+#### Projects
 
-### Featured projects
+- [SpringFirstAppJWT](https://github.com/P2X4A/SpringFirstAppJWT): users API with JWT login, USER and ADMIN roles, BCrypt passwords and Swagger docs.
+- [springfirstapp-jwt-front](https://github.com/P2X4A/springfirstapp-jwt-front): the Angular front end for that API, with a route guard and an interceptor that adds the token.
+- [proyecto1-desarollo3](https://github.com/P2X4A/proyecto1-desarollo3): educational clone of the Mercado Libre Colombia store (Fake Store API catalog, search, cart and checkout, listings CRUD, OMDb movies). Three-person team; I built the structure, routing, layout, API calls, the CRUD and the cart integration.
+- [ProyectoMarketplaceAlojamientos](https://github.com/P2X4A/ProyectoMarketplaceAlojamientos): short-stay rentals marketplace with filters, quotes and simulated bookings. Four-person team; I built the data model, the quotation service and the booking components.
+- [Proyecto-Final-Desarollo-2](https://github.com/P2X4A/Proyecto-Final-Desarollo-2): round-robin football tournament simulated minute by minute, with standings, top scorers, file persistence and 31 JUnit 5 tests.
+- [sigevet-app-mvc](https://github.com/P2X4A/sigevet-app-mvc): team final project for Databases 1, a veterinary clinic database on MySQL in an Oracle Linux VM. I verified the database and integrated the parts; this repo keeps a Thymeleaf version of the app with hand-written SQL.
 
-- **[SpringFirstAppJWT](https://github.com/P2X4A/SpringFirstAppJWT)**: users REST API with JWT authentication (HS256, 24 h), role-based permissions (USER and ADMIN), BCrypt passwords and Swagger UI docs. Spring Boot 3, Java 21 and MySQL.
-- **[springfirstapp-jwt-front](https://github.com/P2X4A/springfirstapp-jwt-front)**: Angular 22 front end for that API: login, registration and user management with a JWT guard and interceptor.
-- **[proyecto1-desarollo3](https://github.com/P2X4A/proyecto1-desarollo3)**: educational clone of Mercado Libre Colombia in Angular 22, with a Fake Store API catalog, search, cart with checkout, listings CRUD and movies from OMDb. Three-person team project: I built the structure, routing, layout, API consumption, the CRUD, the search and the cart integration.
-- **[ProyectoMarketplaceAlojamientos](https://github.com/P2X4A/ProyectoMarketplaceAlojamientos)**: accommodation marketplace with listing, filters, details, quotes and simulated bookings (Angular 22, TypeScript, Bootstrap). Four-person team project: I created the repository, wrote the setup documentation and built the data model, the quotation service and the booking components.
-- **[Proyecto-Final-Desarollo-2](https://github.com/P2X4A/Proyecto-Final-Desarollo-2)**: football tournament simulator in Java 21 (console, MVC): round-robin schedule, minute-by-minute match simulation, standings, top scorers, file persistence and 31 JUnit 5 tests.
-- **[sigevet-app-mvc](https://github.com/P2X4A/sigevet-app-mvc)**: SIGEVET, the team final project for Databases 1. Spring Boot and Thymeleaf app with hand-written SQL (plain JDBC, no ORM) on MySQL. This is an earlier version; the team's full repository is [here](https://github.com/Estarlan/proyecto-bd1-sigevet).
+#### Stack
 
-Other projects: [calculadoraFinalWindows](https://github.com/P2X4A/calculadoraFinalWindows) (Windows 11 style calculator in Angular, with memory, keyboard support and tests), [localDeMotos](https://github.com/P2X4A/localDeMotos) (inventory and sales with Swing and DAO) and [paginasYCafe](https://github.com/P2X4A/paginasYCafe) (console bookstore with a café).
+Java 21, Spring Boot 3 (Security, JWT, JPA), JDBC, MySQL, Angular 21–22 with TypeScript and RxJS, JUnit 5, Vitest, Maven and Git.
 
-### Contact
+#### Right now
 
-- Portfolio: [p2x4a.github.io](https://p2x4a.github.io)
-- Contact form: [p2x4a.github.io/contact](https://p2x4a.github.io/contact/)
+I'm working with Spring Boot security and REST APIs, and with algorithm analysis (recurrences, binary trees, complexity).
+
+#### Outside code
+
+I read about human physiology and sports nutrition, and I do strength training. I built my first PC and I like flashing custom ROMs.
+
+#### Contact
+
+My [portfolio](https://p2x4a.github.io) and its [contact form](https://p2x4a.github.io/contact/).
+
+</details>
